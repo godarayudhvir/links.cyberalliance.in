@@ -1,0 +1,158 @@
+/*
+* littlelink.io
+* Skeleton V2.0.4
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+
+/*
+* Built using on:
+* Skeleton V2.0.4
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+
+- Buttons
+- Brand Styles
+
+*/
+
+
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.button,
+button {
+  display: inline-block;
+  text-decoration: none;
+  height: 48px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 18px;
+  width: 300px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0.1px;
+  white-space: wrap;
+  border-radius: 8px;
+  cursor: pointer;
+ }
+button:hover,
+.button:focus {
+  color: #333;
+  border-color: #888;
+  outline: 0; }
+.button.button-primary {
+  color: #FFF;
+  filter: brightness(90%) }
+.button.button-primary:hover,
+.button.button-primary:focus {
+  color: #FFF;
+  filter: brightness(90%) }
+
+
+/* Brand Icons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.icon {
+  padding: 0px 8px 3.5px 0px;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+}
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
+
+/* Brand Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Default (this is great for your own brand color!) */
+.button.button-default {
+  color: #FFFFFF;
+  background-color: #0085FF }
+.button.button-default:hover,
+.button.button-default:focus {
+  filter: brightness(90%) }
+
+/* Mail */
+.button.button-mail {
+  color: #351313;
+  background-color: #0085FF }
+.button.button-mail:hover,
+.button.button-mail:focus {
+  filter: brightness(90%) }
+
+/* Instagram */
+.button.button-instagram {
+  color: #FFFFFF;
+  background-color: #5865F2 }
+.button.button-instagram:hover,
+.button.button-instagram:focus {
+  filter: brightness(90%) }
+
+/* Github */
+.button.button-github {
+  color: #FFFFFF;
+  background-color: #000000 }
+.button.button-github:hover,
+.button.button-github:focus {
+  filter: brightness(90%) }
+
+/* IG Personal */
+.button.button-igprsnl {
+  color: #FFFFFF;
+  background-image: linear-gradient(-135deg,#1400c8,#b900b4,#f50000) }
+.button.button-igprsnl:hover,
+.button.button-igprsnl:focus {
+  filter: brightness(90%) }
+
+/* Twitter */
+.button.button-twitter {
+  color: #FFFFFF;
+  background-color: #1DA1F2 }
+.button.button-twitter:hover,
+.button.button-twitter:focus {
+  filter: brightness(90%) }
+
+/* PayPal */
+.button.button-paypal {
+  color: #FFFFFF;
+  background-color: #003087 }
+.button.button-paypal:hover,
+.button.button-paypal:focus {
+  filter: brightness(90%) }
+
+/* WhatsApp */
+.button.button-whatsapp {
+  color: #696969;
+  background-color:  #ededed }
+.button.button-whatsapp:hover,
+.button.button-whatsapp:focus {
+  filter: brightness(90%) }
+
+/* linode */
+.button.button-linode {
+  color: #696969;
+  background-color:  #ededed }
+.button.button-linode:hover,
+.button.button-linode:focus {
+  filter: brightness(90%) }
+
+/* lenovo */
+.button.button-lenovo {
+  color: #ffffff;
+  background-color:  #ee1515 }
+.button.button-lenovo:hover,
+.button.button-lenovo:focus {
+  filter: brightness(90%) }
