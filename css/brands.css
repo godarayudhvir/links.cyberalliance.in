@@ -133,13 +133,17 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* IG Personal */
-.button.button-igprsnl {
-  color: #FFFFFF;
-  background-image: linear-gradient(-135deg,#1400c8,#b900b4,#f50000) }
-.button.button-igprsnl:hover,
-.button.button-igprsnl:focus {
-  filter: brightness(90%) }
+/* WhatsApp */
+.button.button-whatsapp {
+  color: #ffffff;
+  background-color: #455a64;
+}
+.button.button-whatsapp:hover,
+.button.button-whatsapp:focus {
+  filter: brightness(90%);
+}
+
+/* unused unused unused unused unused unused unused unused unused unused unused */
 
 /* Twitter */
 .button.button-twit {
@@ -150,16 +154,6 @@ button:hover,
 .button.button-twit:focus {
   filter: brightness(90%);
 } 
-
-/* WhatsApp */
-.button.button-whatsapp {
-  color: #ffffff;
-  background-color: #455a64;
-}
-.button.button-whatsapp:hover,
-.button.button-whatsapp:focus {
-  filter: brightness(90%);
-}
 
 /* Signal */
 .button.button-signal {
@@ -261,8 +255,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-
-
 /* Money Money Money Money Money Money Money Money Money Money Money */
 
 /* Payus */
@@ -282,6 +274,8 @@ button:hover,
 .button.button-paypal:focus {
   filter: brightness(90%);
 }
+
+/* unused unused unused unused unused unused unused unused unused unused */
 
 /* Patreon */
 .button.button-patreon {
