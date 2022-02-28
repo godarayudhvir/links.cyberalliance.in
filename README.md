@@ -5,7 +5,7 @@
 LittleLink is a lightweight DIY alternative to services like [Linktree](https://linktr.ee)
 and [many.link](https://www.google.com). LittleLink was built using [Skeleton](http://getskeleton.com/), a dead simple, responsive boilerplate—we just stripped out some additional code you wouldn't need and added in branded styles for popular services. 😊
 
-![Performance](https://cdn.cottle.cloud/littlelink/performance.png)
+![Performance](https://i.imgur.com/JBD8mTU.png)
 
 Using [Skeleton](http://getskeleton.com/) let us build something that loads quickly & doesn't have any of the unnecessary bloat you would get from using a large framework for a page that requires nothing more than simplicity. LittleLink scored a 99/100 in performance when tested with [Google Lighthouse](https://developers.google.com/web/tools/lighthouse).
 
