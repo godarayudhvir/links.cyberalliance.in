@@ -2,6 +2,8 @@
 
 ![LittleLink](https://cdn.cottle.cloud/littlelink/social-circle.png)
 
+[![wakatime](https://wakatime.com/badge/user/04be71f3-16cc-4c63-ae2d-1edb5cb18060/project/e8a083cf-eab8-4297-90b4-98b7d2154b09.svg)](https://wakatime.com/badge/user/04be71f3-16cc-4c63-ae2d-1edb5cb18060/project/e8a083cf-eab8-4297-90b4-98b7d2154b09)
+
 LittleLink is a lightweight DIY alternative to services like [Linktree](https://linktr.ee)
 and [many.link](https://www.google.com). LittleLink was built using [Skeleton](http://getskeleton.com/), a dead simple, responsive boilerplate—we just stripped out some additional code you wouldn't need and added in branded styles for popular services. 😊
 
