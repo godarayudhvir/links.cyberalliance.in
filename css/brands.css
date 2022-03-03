@@ -308,7 +308,7 @@ button:hover,
 /* lenovo */
 .button.button-lenovo {
   color: #ffffff;
-  background-color:  #ee1515 }
+  background-color:  #e22119 }
 .button.button-lenovo:hover,
 .button.button-lenovo:focus {
   filter: brightness(90%) }
@@ -316,7 +316,127 @@ button:hover,
   /* Hostinger*/
 .button.button-hostinger {
   color: #f3f3f3;
-  background-color:  #b279d3 }
+  background-color:  #673de6 }
 .button.button-hostinger:hover,
 .button.button-hostinger:focus {
   filter: brightness(90%) }
+
+  /* hostgator*/
+  .button.button-hostgator {
+    color: #f68b51;
+    background-color:  #eff4f9 }
+  .button.button-hostgator:hover,
+  .button.button-hostgator:focus {
+    filter: brightness(90%) }
+
+  /* bluehost*/
+  .button.button-bluehost {
+    color: #1d2a3b;
+    background-color:  #83c0fc }
+  .button.button-bluehost:hover,
+  .button.button-bluehost:focus {
+    filter: brightness(90%) }  
+    
+  /* bigrock */
+  .button.button-bigrock {
+    color: #ff7700;
+    background-color:  #222222 }
+  .button.button-bigrock:hover,
+  .button.button-bigrock:focus {
+    filter: brightness(90%) }      
+
+  /* inmotion */
+  .button.button-inmotion {
+    color: #000000;
+    background-color:  #ffffff }
+  .button.button-inmotion:hover,
+  .button.button-inmotion:focus {
+    filter: brightness(90%) }
+
+  /* liquidweb */
+  .button.button-liquidweb {
+    color: #4b4a4b;
+    background-color:  #ffffff }
+  .button.button-liquidweb:hover,
+  .button.button-liquidweb:focus {
+    filter: brightness(90%) }
+
+  /* namecheap */
+  .button.button-namecheap {
+    color: #fc5d07;
+    background-color:  #ffffff }
+  .button.button-namecheap:hover,
+  .button.button-namecheap:focus {
+    filter: brightness(90%) }
+    
+  /* ssls */
+  .button.button-ssls {
+    color: #f4ee32;
+    background-color:  #ffffff }
+  .button.button-ssls:hover,
+  .button.button-ssls:focus {
+    filter: brightness(90%) }
+    
+  /* eksa */
+  .button.button-eksa {
+    color: #8200ff;
+    background-color:  #000000 }
+  .button.button-eksa:hover,
+  .button.button-eksa:focus {
+    filter: brightness(90%) }    
+
+  /* envato */
+  .button.button-envato {
+    color: #81b441;
+    background-color:  #ffffff }
+  .button.button-envato:hover,
+  .button.button-envato:focus {
+    filter: brightness(90%) } 
+    
+  /* elfsight */
+  .button.button-elfsight {
+    color: #f93262;
+    background-color:  #13142d }
+  .button.button-elfsight:hover,
+  .button.button-elfsight:focus {
+    filter: brightness(90%) }
+    
+  /* slider */
+  .button.button-slider {
+    color: #4b1ea7;
+    background-color:  #ffffff }
+  .button.button-slider:hover,
+  .button.button-slider:focus {
+    filter: brightness(90%) }    
+
+  /* ithemes */
+  .button.button-ithemes {
+    color: #008cce;
+    background-color:  #ffffff }
+  .button.button-ithemes:hover,
+  .button.button-ithemes:focus {
+    filter: brightness(90%) }
+    
+  /* tailwind */
+  .button.button-tailwind {
+    color: #0077cc;
+    background-color:  #ffffff }
+  .button.button-tailwind:hover,
+  .button.button-tailwind:focus {
+    filter: brightness(90%) }
+    
+  /* eventcalendar */
+  .button.button-eventcalendar {
+    color: #0f1031;
+    background-color:  #ffffff }
+  .button.button-eventcalendar:hover,
+  .button.button-eventcalendar:focus {
+    filter: brightness(90%) }
+    
+  /* nordvpn */
+  .button.button-nordvpn {
+    color: #ffffff;
+    background-color:  #00154e }
+  .button.button-nordvpn:hover,
+  .button.button-nordvpn:focus {
+    filter: brightness(90%) }    
