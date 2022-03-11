@@ -440,3 +440,11 @@ button:hover,
   .button.button-nordvpn:hover,
   .button.button-nordvpn:focus {
     filter: brightness(90%) }    
+    
+  /* vmware */
+  .button.button-vmware {
+    color: #717074;
+    background-color:  #ffffff }
+  .button.button-vmware:hover,
+  .button.button-vmware:focus {
+    filter: brightness(90%) }
