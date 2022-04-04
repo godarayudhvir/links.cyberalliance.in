@@ -384,6 +384,14 @@ button:hover,
   .button.button-eksa:hover,
   .button.button-eksa:focus {
     filter: brightness(90%) }    
+    
+  /* keygeak */
+  .button.button-keygeak {
+    color: #0f0f0f;
+    background-color:  #ffffff }
+  .button.button-keygeak:hover,
+  .button.button-keygeak:focus {
+    filter: brightness(90%) }    
 
   /* envato */
   .button.button-envato {
@@ -409,12 +417,12 @@ button:hover,
   .button.button-slider:focus {
     filter: brightness(90%) }    
 
-  /* ithemes */
-  .button.button-ithemes {
+  /* stellarwp */
+  .button.button-stellarwp {
     color: #008cce;
     background-color:  #ffffff }
-  .button.button-ithemes:hover,
-  .button.button-ithemes:focus {
+  .button.button-stellarwp:hover,
+  .button.button-stellarwp:focus {
     filter: brightness(90%) }
     
   /* tailwind */
@@ -423,6 +431,22 @@ button:hover,
     background-color:  #ffffff }
   .button.button-tailwind:hover,
   .button.button-tailwind:focus {
+    filter: brightness(90%) }
+
+  /* linguix */
+  .button.button-linguix {
+    color: #fec034;
+    background-color:  #f8f8f8 }
+  .button.button-linguix:hover,
+  .button.button-linguix:focus {
+    filter: brightness(90%) }
+
+  /* nebula */
+  .button.button-nebula {
+    color: #0077cc;
+    background-color:  #ffffff }
+  .button.button-nebula:hover,
+  .button.button-nebula:focus {
     filter: brightness(90%) }
     
   /* eventcalendar */
@@ -443,7 +467,7 @@ button:hover,
     
   /* vmware */
   .button.button-vmware {
-    color: #717074;
+    color: #6fbce6;
     background-color:  #ffffff }
   .button.button-vmware:hover,
   .button.button-vmware:focus {
