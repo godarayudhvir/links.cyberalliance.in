@@ -313,6 +313,14 @@ button:hover,
 .button.button-lenovo:focus {
   filter: brightness(90%) }
 
+/* oneplus */
+.button.button-oneplus {
+  color: #ffffff;
+  background-color:  #eb0028 }
+.button.button-oneplus:hover,
+.button.button-oneplus:focus {
+  filter: brightness(90%) }
+
   /* Hostinger*/
 .button.button-hostinger {
   color: #f3f3f3;
