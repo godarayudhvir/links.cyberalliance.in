@@ -409,14 +409,6 @@ button:hover,
   .button.button-envato:focus {
     filter: brightness(90%) } 
     
-  /* elfsight */
-  .button.button-elfsight {
-    color: #f93262;
-    background-color:  #13142d }
-  .button.button-elfsight:hover,
-  .button.button-elfsight:focus {
-    filter: brightness(90%) }
-    
   /* slider */
   .button.button-slider {
     color: #4b1ea7;
