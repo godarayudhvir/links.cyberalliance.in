@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Yudhvir Singh Godara
+N:Godara;Yudhvir Singh;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:godarayudhvir@cyberalliance.in
+item1.EMAIL;TYPE=INTERNET:godarayudhvirlive@gmail.com
+item1.X-ABLabel:Spam
+item2.EMAIL;TYPE=INTERNET:godarayudhvir@hotmail.com
+item2.X-ABLabel:MSFT
+EMAIL;TYPE=INTERNET;TYPE=HOME:godarayudhvir2544@pm.me
+TEL;TYPE=HOME:88515 73195
+TEL;TYPE=WORK:87662 30998
+item3.ORG:Cyber Alliance
+item3.X-ABLabel:
+item4.TITLE:CEO & CTO
+item4.X-ABLabel:
+CATEGORIES:myContacts
+END:VCARD
