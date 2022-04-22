@@ -19,6 +19,6 @@ No need for gulp, npm, or anything else to make LittleLink work—it uses the ba
 Thanks to :
 
 0. https://thenounproject.com/ Where i got an idea for the logo i edited the svg to make it my own
-1.https://undraw.co/search For images in hero for all the SVG -- > https://cyberalliance.in/images/heroes/
+1. https://undraw.co/search For images in hero for all the SVG -- > https://cyberalliance.in/images/heroes/
 2. https://www.flaticon.com/ For the icons we used almost everywhere https://cyberalliance.in/icons
 3. Following CSS Devs : balloon.css, hover-min.css, animate.css
