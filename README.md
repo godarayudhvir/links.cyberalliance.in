@@ -12,3 +12,13 @@ Using [Skeleton](http://getskeleton.com/) let us build something that loads quic
 No need for gulp, npm, or anything else to make LittleLink work—it uses the bare essentials. You can automatically fork and deploy LittleLink with [Vercel](https://vercel.com/). Enjoy free and fast hosting with automatic deployments on every branch push with one click below. 👇️
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fsethcottle%2Flittlelink&project-name=littlelink&repository-name=littlelink&demo-title=LittleLink%20Demo&demo-description=Imported%20from%20GitHub.)
+
+
+###########################
+
+Thanks to :
+
+0. https://thenounproject.com/ Where i got an idea for the logo i edited the svg to make it my own
+1.https://undraw.co/search For images in hero for all the SVG -- > https://cyberalliance.in/images/heroes/
+2. https://www.flaticon.com/ For the icons we used almost everywhere https://cyberalliance.in/icons
+3. Following CSS Devs : balloon.css, hover-min.css, animate.css
