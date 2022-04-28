@@ -1,0 +1,24 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "name": "Cyber Alliance Links",
+    "short_name": "CA-Links",
+    "icons": [{
+      "src": "images/favicon.png",
+      "sizes": "256x256",
+      "type": "image/webp"
+    }, {
+      "src": "images/favicon@2x.png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }, {
+      "src": "images/logo-100-precent.png",
+      "sizes": "612x612"
+    }],
+    "scope": "/",
+    "id": "cyberalliance links",
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "grey",
+    "background_color": "blue"
+  }
