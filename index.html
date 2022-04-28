@@ -125,6 +125,17 @@
         <!-- Discord Widget-->
         <!-- <iframe src="https://discord.com/widget?id=942884315501580309&theme=dark" width="300" height="510" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
         <br> -->
+
+        <script>
+          // Check that service workers are supported
+          if ('serviceWorker' in navigator) {
+            // Use the window load event to keep the page load performant
+            window.addEventListener('load', () => {
+              navigator.serviceWorker.register('/service-worker.js');
+            });
+          }
+          </script>
+          
   
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
