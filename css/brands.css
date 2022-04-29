@@ -71,7 +71,7 @@ button:hover,
   height: 20px;
 }
 
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+/* @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css"); */
 
 
 /* Brand Styles
@@ -79,8 +79,8 @@ button:hover,
 
 /* Default (this is great for your own brand color!) */
 .button.button-default {
-  color: #FFFFFF;
-  background-color: #0085FF }
+  color: #000;
+  background-color: #fff200 }
 .button.button-default:hover,
 .button.button-default:focus {
   filter: brightness(90%) }
