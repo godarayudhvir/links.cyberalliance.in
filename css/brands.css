@@ -115,8 +115,8 @@ button:hover,
 
 /* YouTube */
 .button.button-yt {
-  color: #ffffff;
-  background-color: #000000;
+  color: #000000;
+  background-color: #ffffff;
 }
 .button.button-yt:hover,
 .button.button-yt:focus {
@@ -126,7 +126,7 @@ button:hover,
 /* Github */
 .button.button-github {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #491b1b;
 }
 .button.button-github:hover,
 .button.button-github:focus {
