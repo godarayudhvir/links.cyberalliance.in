@@ -20,7 +20,7 @@
     "scope": "/",
     "id": "cyberalliance links",
     "start_url": "/",
-    "display": "fullscreen",
+    "display": "standalone",
     "theme_color": "yellow",
     "background_color": "black"
   }
