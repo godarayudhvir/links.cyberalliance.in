@@ -23,5 +23,16 @@
     "display": "standalone",
     "theme_color": "yellow",
     "background_color": "black",
-    "orientation": "portrait-primary"
+    "orientation": "portrait-primary",
+
+    "shortcuts": [
+      {
+        "name": "Schedule a meeting with us",
+        "short_name": "Schedule a meet",
+        "description": "Schedule a meeting with us to get your queries sorted",
+        "url": "/meet.html",
+        "icons": [{ "src": "/meta/ogimage/meet.png", "sizes": "256x256" }]
+      }
+    ]
+
   }
