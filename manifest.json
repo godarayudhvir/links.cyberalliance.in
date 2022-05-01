@@ -13,6 +13,10 @@
       "type": "image/png",
       "purpose": "maskable"
     }, {
+      "src": "images/logo-50-precent.png",
+      "sizes": "306x306",
+      "type": "image/png"
+    }, {
       "src": "images/logo-100-precent.png",
       "sizes": "612x612",
       "type": "image/png"
