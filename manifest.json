@@ -35,7 +35,14 @@
         "short_name": "Meet",
         "description": "Book a meeting with us",
         "url": "meet.html",
-        "icons": [{ "src": "/meta/ogimage/meeting.png", "sizes": "64x64" }]
+        "icons": [{ "src": "/meta/ogimage/meet.png", "sizes": "96x96" }]
+      },
+      {
+        "name": "Pay us",
+        "short_name": "Pay",
+        "description": "Pay Your subcriptions, invoices etc.",
+        "url": "payus.html",
+        "icons": [{ "src": "/meta/ogimage/aff.png", "sizes": "256x256" }]
       }
     ]
 
