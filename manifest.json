@@ -35,7 +35,14 @@
         "short_name": "Schedule a meet",
         "description": "Schedule a meeting with us to get your queries sorted",
         "url": "/meet.html",
-        "icons": [{ "src": "/meta/ogimage/meet.png", "sizes": "256x256" }]
+        "icons": [{ "src": "/meta/ogimage/meet.png", "sizes": "64x64" }]
+      }
+      {
+        "name": "Call us",
+        "short_name": "Call",
+        "description": "Have a phone call with us",
+        "url": "tel:+918766230998",
+        "icons": [{ "src": "/meta/ogimage/telephone.png", "sizes": "64x64" }]
       }
     ]
 
