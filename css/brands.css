@@ -79,11 +79,13 @@ button:hover,
 
 /* Default (this is great for your own brand color!) */
 .button.button-default {
-  color: #000;
-  background-color: #fff200 }
+  color: #ffffff;
+  background-image: linear-gradient(-135deg, #f6279a, #b900b4, #f50000);
+}
 .button.button-default:hover,
 .button.button-default:focus {
-  filter: brightness(90%) }
+  filter: brightness(90%);
+}
 
 /* Mail */
 .button.button-mail {
