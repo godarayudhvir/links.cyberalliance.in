@@ -141,6 +141,16 @@
         <a class="button button-signal" href="#" target="_blank" rel="noopener"><img class="icon"
             src="icons/signal.svg" alt="Signal Logo">Signal</a>
         <br> -->     
+
+        <script>
+            // Check that service workers are supported
+            if ('serviceWorker' in navigator) {
+              // Use the window load event to keep the page load performant
+              window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/service-worker.js');
+              });
+            }
+            </script>
     
       </div>
     </div>
