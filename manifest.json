@@ -36,7 +36,7 @@
         "description": "Schedule a meeting with us to get your queries sorted",
         "url": "/meet.html",
         "icons": [{ "src": "/meta/ogimage/meet.png", "sizes": "64x64" }]
-      }
+      },
       {
         "name": "Call us",
         "short_name": "Call",
