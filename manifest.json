@@ -2,31 +2,28 @@
     "lang": "en",
     "dir": "ltr",
     "name": "Cyber Alliance Links",
-    "short_name": "CA-Links",
-    "icons": [{
+    "short_name": "Cyber Alliance",
+    "icons": 
+    [
+      
+    {
       "src": "images/favicon.png",
-      "sizes": "256x256",
-      "type": "image/png"
-    }, {
-      "src": "images/favicon@2x.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    }, {
-      "src": "images/logo-50-precent.png",
       "sizes": "306x306",
       "type": "image/png"
     }, {
-      "src": "images/logo-100-precent.png",
+      "src": "images/favicon@2x.png",
       "sizes": "612x612",
       "type": "image/png"
-    }],
+    }
+
+  ],
+    
     "scope": "/",
     "id": "cyberalliance links",
     "start_url": "index.html",
     "display": "standalone",
     "theme_color": "yellow",
-    "background_color": "black",
+    "background_color": "gray",
     "orientation": "portrait-primary",
 
     "shortcuts": [
