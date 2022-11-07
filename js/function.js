@@ -4,11 +4,11 @@ var options = {
     [
       {
         name: "REVENUE",
-        data: [25800,5200,14600,20305,25800,49160,74800,0,0]
+        data: [523627,97827,59332,95320,264701,266361]
       },
       {
         name: "Cost of Operation",
-        data: [26760,2500,7342,18350,14200,15800,24805,0,0]
+        data: [523579,98016,56180,87817,272676,215997]
       }
     ],
     chart: {
@@ -35,7 +35,7 @@ var options = {
     },
   },
   xaxis: {
-    categories: ['Dec','Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug'],
+    categories: ['PVFY 21-22', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov']
   }
   };
 
