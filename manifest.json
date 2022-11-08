@@ -28,18 +28,11 @@
 
     "shortcuts": [
       {
-        "name": "Book a Meeting",
-        "short_name": "Meet",
-        "description": "Book a meeting with us",
-        "url": "meet.html",
-        "icons": [{ "src": "/meta/ogimage/meet.png", "sizes": "96x96" }]
-      },
-      {
         "name": "Pay us",
         "short_name": "Pay",
         "description": "Pay Your subcriptions, invoices etc.",
         "url": "payus.html",
-        "icons": [{ "src": "/meta/ogimage/aff.png", "sizes": "256x256" }]
+        "icons": [{ "src": "/meta/ogimage/money.png", "sizes": "256x256" }]
       }
     ]
 
