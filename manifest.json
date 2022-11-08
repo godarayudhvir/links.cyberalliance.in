@@ -32,7 +32,7 @@
         "short_name": "Pay",
         "description": "Pay Your subcriptions, invoices etc.",
         "url": "payus.html",
-        "icons": [{ "src": "/meta/ogimage/money.png", "sizes": "256x256" }]
+        "icons": [{ "src": "/meta/ogimage/money.png", "sizes": "512x512" }]
       }
     ]
 
