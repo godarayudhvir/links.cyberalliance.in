@@ -8,7 +8,7 @@ var options = {
       },
       {
         name: "Cost of Operation",
-        data: [32000,824900,114500,0]
+        data: [45000,1224800,185000,0]
       }
     ],
     chart: {
