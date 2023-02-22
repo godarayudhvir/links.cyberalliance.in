@@ -4,11 +4,11 @@ var options = {
     [
       {
         name: "REVENUE",
-        data: [523627,97827,59332,95320,264701,266361]
+        data: [57502,1667934,225904,0]
       },
       {
         name: "Cost of Operation",
-        data: [523579,98016,56180,87817,272676,215997]
+        data: [32000,824900,114500,0]
       }
     ],
     chart: {
@@ -25,7 +25,7 @@ var options = {
     curve: 'straight'
   },
   title: {
-    text: 'Income by Month',
+    text: 'Revenue graph',
     align: 'left'
   },
   grid: {
@@ -35,7 +35,7 @@ var options = {
     },
   },
   xaxis: {
-    categories: ['PVFY 21-22', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov']
+    categories: ['2021', '2022', 'Jan', 'Feb']
   }
   };
 
