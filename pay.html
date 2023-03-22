@@ -84,6 +84,8 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+  <script src="js/vendor/push.min.js"></script>
+  <script src="js/vendor/serviceWorker.min.js"></script>
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
 
@@ -102,6 +104,17 @@
         navigator.serviceWorker.register('/service-worker.js');
       });
     }
+
+    // Push Notification
+    Push.create("Notice me!!",{
+            body: "There's always a free demo, before you give us your hard earned money.",
+            icon: '/icon.png',
+            timeout: 20000,
+            onClick: function () {
+                window.focus();
+                this.close();
+            }
+        });
     </script>
 
 </body>
