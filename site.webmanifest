@@ -2,7 +2,7 @@
   "short_name": "CA-Links",
   "name": "Cyber Alliance Links",
   "icons": [{
-    "src": "icon.192.png",
+    "src": "icon.png",
     "type": "image/png",
     "sizes": "192x192"
   }],
