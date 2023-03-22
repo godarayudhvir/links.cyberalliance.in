@@ -9,5 +9,16 @@
   "display": "fullscreen",
   "start_url": "/?utm_source=homescreen",
   "background_color": "#fafafa",
-  "theme_color": "#fafafa"
+  "theme_color": "#fafafa",
+  "orientation": "portrait-primary",
+
+  "shortcuts": [
+    {
+      "name": "Pay us",
+      "short_name": "Pay",
+      "description": "Make a Payment to Cyber Alliance India",
+      "url": "payus.html",
+      "icons": [{ "src": "/img/icons/pay.png", "sizes": "48x48" }]
+    }
+  ]
 }
