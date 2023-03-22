@@ -14,7 +14,7 @@
 
   "shortcuts": [
     {
-      "name": "Pay us",
+      "name": "Pay",
       "short_name": "Pay",
       "description": "Make a Payment to Cyber Alliance India",
       "url": "payus.html",
