@@ -134,6 +134,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* digital ocean */
+.button.button-digitalocean {
+  color: #0069ff;
+  background-color: #f9fafe;
+}
+.button.button-digitalocean:hover,
+.button.button-digitalocean:focus {
+  filter: brightness(90%);
+}
+
 /* ssl */
 .button.button-ssl {
   color: #f5ee32;
