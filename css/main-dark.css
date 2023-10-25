@@ -88,8 +88,8 @@
   html {
     font-size: 100%; }
   body {
-    background-image: url("/img/bg.png");
-    background-color: #212d3a;
+    background-image: url("/img/background-2.png");
+    /* background-color: #009dde; */
     font-size: 18px;
     line-height: 24px;
     font-weight: 400;
@@ -205,3 +205,5 @@
     background-position: center;
     border-radius: 50%;
   }
+
+  
