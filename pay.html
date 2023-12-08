@@ -90,14 +90,9 @@
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
 
-  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
-  <!-- <script>
-    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
-    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set','transport','beacon'); ga('send', 'pageview')
-  </script>
-  <script src="https://www.google-analytics.com/analytics.js" async></script> -->
+  <script async src="https://eu.umami.is/script.js" data-website-id="818c8e3c-fd9d-4c1a-b650-4bb79ef4647d"></script>  
 
-  <script>
+  <!-- <script>
     // Check that service workers are supported
     if ('serviceWorker' in navigator) {
       // Use the window load event to keep the page load performant
@@ -107,16 +102,13 @@
     }
 
     // Push Notification
-    Push.create("Notice me!!",{
-            body: "There's always a free demo, before you give us your hard earned money.",
-            icon: '/icon.png',
-            timeout: 20000,
-            onClick: function () {
-                window.focus();
-                this.close();
-            }
-        });
-    </script>
+    Push.create("Upcoming Event",{
+            body: "September New Start",
+            // link: 'pay', 
+            icon: 'cal.png',  
+            timeout: 200000,
+        })
+    </script> -->
 
 </body>
 
